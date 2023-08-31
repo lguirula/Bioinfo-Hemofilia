@@ -1,0 +1,96 @@
+LOCUS       AK292749                1775 bp    mRNA    linear   PRI 09-JAN-2008
+DEFINITION  Homo sapiens cDNA FLJ77200 complete cds, highly similar to Homo
+            sapiens coagulation factor IX (plasma thromboplastic component,
+            Christmas disease, hemophilia B) (F9), mRNA.
+ACCESSION   AK292749
+VERSION     AK292749.1
+KEYWORDS    FLI_CDNA; oligo capping.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Wakamatsu,A., Yamamoto,J., Kimura,K., Ishii,S., Watanabe,K.,
+            Sugiyama,A., Murakawa,K., Kaida,T., Tsuchiya,K., Fukuzumi,Y.,
+            Kumagai,A., Oishi,Y., Yamamoto,S., Ono,Y., Komori,Y., Yamazaki,M.,
+            Kisu,Y., Nishikawa,T., Sugano,S., Nomura,N. and Isogai,T.
+  TITLE     NEDO human cDNA sequencing project
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1775)
+  AUTHORS   Isogai,T. and Yamamoto,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-OCT-2007) Contact:Takao Isogai Reverse Proteomics
+            Research Institute; 1-9-11 Kaji-cho, Chiyoda-ku, Tokyo 101-0044,
+            Japan E-mail :flj-cdna@nifty.com
+COMMENT     Human cDNA sequencing project focused on splicing variants of mRNA
+            in NEDO functional analysis of protein and research application
+            project supported by Ministry of Economy, Trade and Industry,
+            Japan; cDNA selection for complete cds sequencing: Reverse
+            Proteomics Research Institute (REPRORI), Hitachi, Ltd., Japan
+            (Hitachi) and Japan Biological Informatics Consortium, Japan
+            (JBIC); cDNA complete cds sequencing: JBIC; cDNA library
+            construction: Helix Research Institute supported by Japan Key
+            Technology Center, Japan (HRI); cDNA 5'- & 3'-end sequencing:
+            Research Association for Biotechnology, Japan, Biotechnology
+            Center, National Institute of Technology and Evaluation, Japan and
+            HRI; cDNA mapping to human genome: Central Research Laboratory,
+            Hitachi; evaluation and annotation: REPRORI.
+FEATURES             Location/Qualifiers
+     source          1..1775
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="TLIVE2004805"
+                     /tissue_type="liver, tumor tissue"
+                     /clone_lib="TLIVE2"
+                     /note="cloning vector: pME18SFL3;
+                     tumor tissue"
+     CDS             1..1386
+                     /note="unnamed protein product; highly similar to Homo
+                     sapiens coagulation factor IX (plasma thromboplastic
+                     component, Christmas disease, hemophilia B) (F9), mRNA"
+                     /codon_start=1
+                     /protein_id="BAF85438.1"
+                     /translation="MQRVNMIMAESPGLITICLLGYLLSAECTVFLDHENANKILNRP
+                     KRYNSGKLEEFVQGNLERECMEEKCSFEEAREVFENTERTTEFWKQYVDGDQCESNPC
+                     LNGGSCKDDINSYECWCPFGFEGKNCELDVTCNIKNGRCEQFCKNSADNKVVCSCTEG
+                     YRLAENQKSCEPAVPFPCGRVSVSQTSKLTRAETVFPDVDYVNSTEAETILDNITQST
+                     QSFNDFTRVVGGEDAKPGQFPWQVVLNGKVDAFCGGSIVNEKWIVTAAHCVETGVKIT
+                     VVAGEHNIEETEHTEQKRNVIRIIPHHNYNAAINKYNHDIALLELDEPLVLNSYVTPI
+                     CIADKEYTNIFLKFGSGYVSGWGRVFHKGRSALVLQYLRVPLVDRATCLRSTKFTIYN
+                     NMFCAGFHEGGRDSCQGDSGGPHVTEVEGTSFLTGIISWGEECAMKGKYGIYTKVSRY
+                     VNWIKEKTKLT"
+ORIGIN      
+        1 atgcagcgcg tgaacatgat catggcagaa tcaccaggcc tcatcaccat ctgcctttta
+       61 ggatatctac tcagtgctga atgtacagtt tttcttgatc atgaaaacgc caacaaaatt
+      121 ctgaatcggc caaagaggta taattcaggt aaattggaag agtttgttca agggaacctt
+      181 gagagagaat gtatggaaga aaagtgtagt tttgaagaag cacgagaagt ttttgaaaac
+      241 actgaaagaa caactgaatt ttggaagcag tatgttgatg gagatcagtg tgagtccaat
+      301 ccatgtttaa atggcggcag ttgcaaggat gacattaatt cctatgaatg ttggtgtccc
+      361 tttggatttg aaggaaagaa ctgtgaatta gatgtaacat gtaacattaa gaatggcaga
+      421 tgcgagcagt tttgtaaaaa tagtgctgat aacaaggtgg tttgctcctg tactgaggga
+      481 tatcgacttg cagaaaacca gaagtcctgt gaaccagcag tgccatttcc atgtggaaga
+      541 gtttctgttt cacaaacttc taagctcacc cgtgctgaga ctgtttttcc tgatgtggac
+      601 tatgtaaatt ctactgaagc tgaaaccatt ttggataaca tcactcaaag cacccaatca
+      661 tttaatgact tcactcgggt tgttggtgga gaagatgcca aaccaggtca attcccttgg
+      721 caggttgttt tgaatggtaa agttgatgca ttctgtggag gctctatcgt taatgaaaaa
+      781 tggattgtaa ctgctgccca ctgtgttgaa actggtgtta aaattacagt tgtcgcaggt
+      841 gaacataata ttgaggagac agaacataca gagcaaaagc gaaatgtgat tcgaattatt
+      901 cctcaccaca actacaatgc agctattaat aagtacaacc atgacattgc ccttctggaa
+      961 ctggacgaac ccttagtgct aaacagctac gttacaccta tttgcattgc tgacaaggaa
+     1021 tacacgaaca tcttcctcaa atttggatct ggctatgtaa gtggctgggg aagagtcttc
+     1081 cacaaaggga gatcagcttt agttcttcag taccttagag ttccacttgt tgaccgagcc
+     1141 acatgtcttc gatctacaaa gttcaccatc tataacaaca tgttctgtgc tggcttccat
+     1201 gaaggaggta gagattcatg tcaaggagat agtgggggac cccatgttac tgaagtggaa
+     1261 gggaccagtt tcttaactgg aattattagc tggggtgaag agtgtgcaat gaaaggcaaa
+     1321 tatggaatat ataccaaggt atcccggtat gtcaactgga ttaaggaaaa aacaaagctc
+     1381 acttaatgaa agatggattt ccaaggttaa ttcattggaa ttgaaaatta acagggcctc
+     1441 tcactaacta atcactttcc catcttttgt tagatttgaa tatatacatt ctatgatcat
+     1501 tgctttttct ctttacaggg gagaatttca tattttacct gagcaaattg attagaaaat
+     1561 ggaaccacta gaggaatata atgtgttagg aaattacagt catttctaag ggcccagccc
+     1621 ttgacaaaat tgtgaagtta aattctccac tctgtccatc agatactatg gttctccact
+     1681 atggcaacta actcactcaa ttttccctcc ttagcagcat tccatcttcc cgatcttctt
+     1741 tgcttctcca accaaaacat caatgtttat tagtt
+//
+
